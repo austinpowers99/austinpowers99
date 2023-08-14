@@ -4,7 +4,7 @@
 - 🔭 Currently working on [PawFolio](https://pawfolio-lovelace-7c9477f097c5.herokuapp.com/)
 - 🌱 Exploring React and the MERN-Stack
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samantha-f-924b74224/)
-- 💬 Ask me about cats, food, code, random history facts, and the cosmos!
+- 💬 Ask me about cats, code, food, random history facts, and the cosmos!
 
 # Languages:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
