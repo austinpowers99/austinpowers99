@@ -1,4 +1,4 @@
-# 🫧 About Me :
+# Hi there! I'm Sam 👋
  I am a Full Stack Developer from California!
 
  # Languages:
