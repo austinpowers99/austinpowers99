@@ -5,7 +5,7 @@
 - 🫧 Currently a student at General Assembly in the Software Engineer Immersive Program learning frontend and backend for building web applications.
 - 🌱 Exploring React and the MERN-Stack
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samantha-f-924b74224/)
-- 💬 Ask me about cats, code, food, random history facts, and the cosmos!
+- 💬 Ask me about cats, code, random history facts, and the cosmos!
 
 # Languages:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
