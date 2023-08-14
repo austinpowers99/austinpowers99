@@ -1,8 +1,8 @@
-# Hello there! I'm Sam 👋
+# Hi there! I'm Sam 👋
  I am a Full Stack Developer from California!
 
 - 🔭 Currently working on [PawFolio](https://pawfolio-lovelace-7c9477f097c5.herokuapp.com/)
-- 🫧 I’m currently a student at General Assembly in the Software Engineer Immersive Program learning frontend and backend for building web applications.
+- 🫧 Currently a student at General Assembly in the Software Engineer Immersive Program learning frontend and backend for building web applications.
 - 🌱 Exploring React and the MERN-Stack
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samantha-f-924b74224/)
 - 💬 Ask me about cats, code, food, random history facts, and the cosmos!
