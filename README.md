@@ -2,10 +2,10 @@
  I am a Full Stack Developer from California!
 
 - 🔭 Currently working on [PawFolio](https://pawfolio-lovelace-7c9477f097c5.herokuapp.com/)
-- 🫧 Currently a student at General Assembly in the Software Engineer Immersive Program learning frontend and backend for building web applications.
+- 🫧 Former student at General Assembly in the Software Engineer Immersive Program learning frontend and backend for building web applications.
 - 🌱 Exploring React and the MERN-Stack
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samantha-f-924b74224/)
-- 💬 Ask me about cats and code!
+- 💬 Ask me about Javascript, React, CSS!
 
 ## Languages:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
