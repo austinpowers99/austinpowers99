@@ -1,7 +1,14 @@
 <h1 align="center">Hi there! I'm Sam 👋</h1>
 <h3 align="center">I am a Full Stack Developer from California!</h3>
 
+<div id="banner" align="center">  
+  <img src="https://unsplash.com/photos/aoNuIXxWItQ" width="900" height="300" />
+</div>
+
 <div align="center">
+  <a href="https://www.linkedin.com/in/samanthafuentes2023/">>
+    <img src="https://github.com/austinpowers99/austinpowers99/assets/135395052/30b0cbef-0083-47a1-92ba-405e411c24d1"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=austinpowers99&style=flat-square&color=blue"/>
 </div>
 
