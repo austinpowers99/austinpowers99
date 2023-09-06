@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Sam 👋</h1>
-I am a Full Stack Developer from California!</h3>
+<h3>I am a Full Stack Developer from California!</h3>
 
 - 🔭 I’m currently working on [Mandrake](https://mandrake-app-d113a6b8d70e.herokuapp.com/)
 - 🌱 Exploring React and Java
