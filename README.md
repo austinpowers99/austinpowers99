@@ -1,9 +1,8 @@
-<h1 align="center">Hi there! I'm Sam 👋</h1>
-<h1 align="center">I am a Full Stack Developer from California!</h1>
+<h2 align="center">Hi there! I'm Sam 👋</h2>
+<h3 align="center">I am a Full Stack Developer from California!</h3>
 
-- 🔭 Currently working on [PawFolio](https://pawfolio-lovelace-7c9477f097c5.herokuapp.com/)
-- 🫧 Former student at General Assembly in the Software Engineer Immersive Program learning frontend and backend for building web applications.
-- 🌱 Exploring React and the MERN-Stack
+- 🔭 Currently working on [Mandrake](https://mandrake-app-d113a6b8d70e.herokuapp.com/)
+- 🌱 Exploring React and Java
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samantha-f-924b74224/)
 - 💬 Ask me about Javascript, React, CSS!
 
