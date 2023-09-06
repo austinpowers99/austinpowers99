@@ -1,5 +1,5 @@
-# Hi there! I'm Sam 👋
- I am a Full Stack Developer from California!
+<h1 align="center">Hi there! I'm Sam 👋</h1>
+<h1 align="center">I am a Full Stack Developer from California!</h1>
 
 - 🔭 Currently working on [PawFolio](https://pawfolio-lovelace-7c9477f097c5.herokuapp.com/)
 - 🫧 Former student at General Assembly in the Software Engineer Immersive Program learning frontend and backend for building web applications.
