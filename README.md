@@ -2,7 +2,7 @@
 <h3 align="center">I am a Full Stack Developer from California!</h3>
 
 <div align="center">
-  <img src="https://tenor.com/view/lego-hi-hello-gif-13397417"/>
+  <img src="https://komarev.com/ghpvc/?username=austinpowers99&style=flat-square&color=blue"/>
 </div>
 
 - 🔭 I’m currently working on [Mandrake](https://mandrake-app-d113a6b8d70e.herokuapp.com/)
