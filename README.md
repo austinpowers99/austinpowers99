@@ -5,6 +5,10 @@
   <img src="https://unsplash.com/photos/aoNuIXxWItQ" width="900" height="300" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/austinpowers99/austinpowers99/assets/135395052/30b0cbef-0083-47a1-92ba-405e411c24d1"/>
+</div>
+
 - 🔭 I’m currently working on [Mandrake](https://mandrake-app-d113a6b8d70e.herokuapp.com/)
 - 🌱 Exploring React and Java
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samantha-f-924b74224/)
