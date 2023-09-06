@@ -1,14 +1,11 @@
 <h1 align="center">Hi there! I'm Sam 👋</h1>
-<h3 align="center">I am a Full Stack Developer from California!</h3>
-
-<div id="banner" align="center">  
-  <img src="https://unsplash.com/photos/aoNuIXxWItQ" width="900" height="300" />
-</div>
+<h2 align="center">I am a Full Stack Developer from California!</h2>
 
 <div align="center">
   <img src="https://github.com/austinpowers99/austinpowers99/assets/135395052/30b0cbef-0083-47a1-92ba-405e411c24d1"/>
 </div>
 
+## About me
 - 🔭 I’m currently working on [Mandrake](https://mandrake-app-d113a6b8d70e.herokuapp.com/)
 - 🌱 Exploring React and Java
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samantha-f-924b74224/)
