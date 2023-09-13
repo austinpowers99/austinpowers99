@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Sam</h1>
 <div align="center">
-  <img src="[https://tenor.com/view/lego-hi-hello-gif-13397417](https://giphy.com/gifs/thelegomovie-hello-lego-the-movie-VeBeB9rR524RW)" width="300" height="100"/>
+  <img src="https://giphy.com/gifs/thelegomovie-hello-lego-the-movie-VeBeB9rR524RW" width="400" height="200"/>
 </div>
 <h3 align="center">I am a Full Stack Developer from California!</h3>
 
