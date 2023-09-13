@@ -1,8 +1,8 @@
-<h1 align="center">Hey there! I'm Sam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi there! I'm Sam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h3 align="center">I am a Full Stack Developer from California!</h3>
 <div align="center">
   <img src="https://github.com/austinpowers99/austinpowers99/assets/135395052/30b0cbef-0083-47a1-92ba-405e411c24d1" width="900" height="300"/>
 </div>
-<h3 align="center">I am a Full Stack Developer from California!</h3>
 
 ### About Me :
 - 🔭 I’m currently working on [Mandrake](https://mandrake-app-d113a6b8d70e.herokuapp.com/)
