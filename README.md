@@ -1,4 +1,5 @@
-<h1 align="center">Hi there! I'm Sam 👋</h1>
+<h1 align="center">Hey there! I'm Sam</h1>
+<p align="center"><img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/view/lego-hi-hello-gif-13397417)" width="100"/></p>
 <h3 align="center">I am a Full Stack Developer from California!</h3>
 
 <div align="center">
