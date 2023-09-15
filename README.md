@@ -4,6 +4,12 @@
   <img src="https://github.com/austinpowers99/austinpowers99/assets/135395052/30b0cbef-0083-47a1-92ba-405e411c24d1" width="800" height="300"/>
 </div>
 
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/samanthafuentes2023/">
+      <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Lauren | LinkedIn" width="21px"/>
+    </a>
+</div>
+
 ### About Me :
 - 🔭 I’m currently working on [Mandrake](https://mandrake-app-d113a6b8d70e.herokuapp.com/)
 - 🌱 Exploring React and Java
