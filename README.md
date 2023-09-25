@@ -17,6 +17,7 @@
 - 🌱 Refining React and Python!
 - 🔮 Future Technologies to Learn: React Native, C, C++
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samantha-f-924b74224/)
+- [Checkout my Portfolio](https://austinpowers99.github.io/portfolio/) ✨
 
 ### Languages:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,6 +37,6 @@
 
 ### Others:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Heroky]("https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white")
-![AWS]("https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white")
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
