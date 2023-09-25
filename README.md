@@ -1,5 +1,14 @@
 <h2 align="center">Hi there! I'm Sam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 <h3 align="center">I am a Full Stack Developer from California!</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Samantha_Fuentes-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samanthafuentes2023/"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=austinpowers99&style=flat-square&color=blue" alt=""/>
+</div>
+
 <div align="center">
   <img src="https://github.com/austinpowers99/austinpowers99/assets/135395052/30b0cbef-0083-47a1-92ba-405e411c24d1" width="800" height="300"/>
 </div>
