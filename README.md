@@ -2,7 +2,7 @@
 <h3 align="center">I am a Full Stack Developer from California!</h3>
 
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/Samantha_Fuentes/">
+    <a href="https://www.linkedin.com/in/samanthafuentes2023/">
       <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Samantha | LinkedIn" width="21px"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=austinpowers99&style=flat-square&color=blue" alt=""/>
