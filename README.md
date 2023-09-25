@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! I'm Sam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h2>
+<h2 align="center">Hi there! I'm Sam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 <h3 align="center">I am a Full Stack Developer from California!</h3>
 
 <div id="badges" align="center">
