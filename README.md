@@ -1,5 +1,5 @@
-<h2 align="center">Hi there! I'm Sam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
-<h3 align="center">I am a Full Stack Developer from California!</h3>
+<h2 align="center">Welcome to where the magic happens ✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
+<h3 align="center">I'm Sam and I'm a Full Stack Developer from California!</h3>
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/samanthafuentes2023/">
@@ -18,6 +18,11 @@
 - 🔮 Future Technologies to Learn: React Native, C, C++
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samantha-f-924b74224/)
 - [Checkout my Portfolio](https://austinpowers99.github.io/portfolio/) ✨
+
+### My best qualities:
+- 💡 curious learner
+- 💥 perseverant
+- 🤝 team player
 
 ### Languages:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
