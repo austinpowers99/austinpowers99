@@ -20,7 +20,7 @@
 - [Checkout my Portfolio](https://austinpowers99.github.io/portfolio/) ✨
 
 ### My best qualities:
-- 💡 curious learner
+- 💡 proactive learner
 - 💥 perseverant
 - 🤝 team player
 
