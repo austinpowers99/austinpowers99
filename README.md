@@ -1,5 +1,5 @@
-<h2 align="center">Welcome to where the magic happens ✨ </h2>
-<h3 align="center">I'm Sam and I'm a Full Stack Developer from California!</h3>
+<h2 align="center">Hello world! Welcome to where the magic happens ✨ </h2>
+<h3 align="center">I'm Sam. I'm a Full Stack Developer from California!</h3>
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/samanthafuentes2023/">
