@@ -15,7 +15,7 @@
 ### About Me :
 - 🔭 I’m currently working on [Mandrake](https://mandrake-app-d113a6b8d70e.herokuapp.com/)
 - 🌱 Refining React and Python!
-- 🔮 Future Technologies to Learn: React Native, C, C++
+- 🔮 Future Technologies to Learn: React Native, C, Java
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samantha-f-924b74224/)
 - [Checkout my Portfolio](https://austinpowers99.github.io/portfolio/) ✨
 
