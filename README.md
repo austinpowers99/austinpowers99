@@ -1,7 +1,7 @@
 <h2 align="center">Hello world! Welcome to where the magic happens ✨ </h2>
 <h3 align="center">I'm Sam. I'm a Full Stack Developer from California!</h3>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=10&size=35&duration=3000&pause=1000&color=4277F7&background=6AFFF600&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;I`m+Samantha+Fuentes;I`m a Full Stack Developer from California!" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=10&size=35&duration=3000&pause=1000&color=4277F7&background=6AFFF600&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;I`m+Samantha+Fuentes" alt="Typing SVG" /></a></h1>
 
 
 <div id="badges" align="center">
