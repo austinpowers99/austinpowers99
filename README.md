@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="800" height="300"/>
+  <img src="https://github.com/austinpowers99/austinpowers99/assets/135395052/30b0cbef-0083-47a1-92ba-405e411c24d1" width="800" height="300"/>
 </div>
 
 ### About Me :
