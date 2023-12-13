@@ -9,11 +9,9 @@
     <img src="https://komarev.com/ghpvc/?username=austinpowers99&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div class="lottie" align='center'>
-    <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module" background="transparent" speed="1"  width="300" height="300"></script>          
+<div align="center">
+  <img src="https://github.com/austinpowers99/austinpowers99/assets/135395052/30b0cbef-0083-47a1-92ba-405e411c24d1" width="800" height="300"/>
 </div>
-
-
 
 ### About Me :
 - 🔭 I’m currently working on [Mandrake](https://mandrake-app-d113a6b8d70e.herokuapp.com/)
