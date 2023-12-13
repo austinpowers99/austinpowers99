@@ -10,14 +10,10 @@
 </div>
 
 <div class="lottie" align='center'>
-    <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
-
-    <dotlottie-player src="https://lottie.host/befc54c0-1335-4447-9a88-0f5685d5649d/MKpjdrPsmE.json" background="transparent" speed="1" style="width: 400px; height: 300px;" loop autoplay></dotlottie-player>            
+    <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module" background="transparent" speed="1"  width="300" height="300"></script>          
 </div>
 
-<div align="center">
-  <img src="https://github.com/austinpowers99/austinpowers99/assets/135395052/30b0cbef-0083-47a1-92ba-405e411c24d1" width="800" height="300"/>
-</div>
+
 
 ### About Me :
 - 🔭 I’m currently working on [Mandrake](https://mandrake-app-d113a6b8d70e.herokuapp.com/)
