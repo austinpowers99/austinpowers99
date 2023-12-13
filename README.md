@@ -13,6 +13,10 @@
   <img src="https://github.com/austinpowers99/austinpowers99/assets/135395052/30b0cbef-0083-47a1-92ba-405e411c24d1" width="800" height="300"/>
 </div>
 
+<div>
+    <dotlottie-player src="https://lottie.host/87afaf0b-a028-4d1f-9c08-45213eae67d1/mkD6JSCOMz.json" background="transparent" speed="1" width="300"; height="200" loop autoplay></dotlottie-player>
+</div>
+
 ### About Me :
 - 🔭 I’m currently working on [Mandrake](https://mandrake-app-d113a6b8d70e.herokuapp.com/)
 - 🌱 Refining React and Python!
