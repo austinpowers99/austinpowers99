@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://dribbble.com/shots/8630894-Programmer-cat/attachments/888068?mode=media" width="800" height="300"/>
+  <img src="https://github.com/images/mona-whisper.gif" width="800" height="300"/>
 </div>
 
 ### About Me :
